@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-Navigate to `/demo` — everything is pre-loaded. No typing required. Three real patient scenarios run in parallel.
+https://clearcare-psi.vercel.app/
 
 ---
 
